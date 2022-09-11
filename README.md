@@ -7,11 +7,11 @@
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
 
 
-[![Stars](https://img.shields.io/github/stars/CyniteOfficial/Auto-Filter-Bot-V3?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/stargazers)
-[![Forks](https://img.shields.io/github/forks/CyniteOfficial/Auto-Filter-Bot-V3?style=flat-square&color=blue)](https://github.com/Aadhi000/Ajax-Extra-Features/fork)
+[![Stars](https://img.shields.io/github/stars/CyniteOfficial/Auto-Filter-Bot-V3?style=flat-square&color=green)](https://github.com/CyniteOfficial/Auto-Filter-Bot-V3/stargazers)
+[![Forks](https://img.shields.io/github/forks/CyniteOfficial/Auto-Filter-Bot-V3?style=flat-square&color=blue)](https://github.com/CyniteOfficial/Auto-Filter-Bot-V3/fork)
 [![Size](https://img.shields.io/github/repo-size/CyniteOfficial/Auto-Filter-Bot-V3?style=flat-square&color=red)](https://github.com/Aadhi000/Ajax-Extra-Features)   
 [![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Aadhi000/Ajax-Extra-Features)   
-[![Contributors](https://img.shields.io/github/contributors/CyniteOfficial/Auto-Filter-Bot-V3?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/CyniteOfficial/Auto-Filter-Bot-V3?style=flat-square&color=green)](https://github.com/CyniteOfficial/Auto-Filter-Bot-V3/graphs/contributors)
 ## Features
 
 - [x] Auto Filter
