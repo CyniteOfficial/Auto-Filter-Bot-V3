@@ -1,19 +1,17 @@
-<p align="center">
-  <img src="assets/AJAX.png" alt="Ajax-Extra-FeaturesLogo">
-</p>
+
 <h1 align="center">
-  <b>𝙰𝙹𝙰𝚇-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
+  <b>Auto-Filter-Bot-V3</b>
 </h1>
 
-<a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
+<a href="https://t.me/TechnicalCynite">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
 
 
-[![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/stargazers)
-[![Forks](https://img.shields.io/github/forks/Aadhi000/Ajax-Extra-Features?style=flat-square&color=blue)](https://github.com/Aadhi000/Ajax-Extra-Features/fork)
-[![Size](https://img.shields.io/github/repo-size/Aadhi000/Ajax-Extra-Features?style=flat-square&color=red)](https://github.com/Aadhi000/Ajax-Extra-Features)   
+[![Stars](https://img.shields.io/github/stars/CyniteOfficial/Auto-Filter-Bot-V3?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/stargazers)
+[![Forks](https://img.shields.io/github/forks/CyniteOfficial/Auto-Filter-Bot-V3?style=flat-square&color=blue)](https://github.com/Aadhi000/Ajax-Extra-Features/fork)
+[![Size](https://img.shields.io/github/repo-size/CyniteOfficial/Auto-Filter-Bot-V3?style=flat-square&color=red)](https://github.com/Aadhi000/Ajax-Extra-Features)   
 [![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Aadhi000/Ajax-Extra-Features)   
-[![Contributors](https://img.shields.io/github/contributors/Aadhi000/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/CyniteOfficial/Auto-Filter-Bot-V3?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/graphs/contributors)
 ## Features
 
 - [x] Auto Filter
@@ -49,7 +47,7 @@
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com).
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this 
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-* `SUPPORT_CHAT` : @MWUpdatez
+* `SUPPORT_CHAT` : @TechnicalCynite
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
 ### Optional Variables
 
@@ -60,19 +58,19 @@ You can deploy this bot anywhere.
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax-Extra-Features">
+<a href="https://heroku.com/deploy?template=https://github.com/CyniteOfficial/Auto-Filter-Bot-V3">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 
-<a href="https://youtu.be/kB9TkCs8cX0">
+<a href="https://youtu.be/MfUjmZ1mpfc">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Aadhi000/Ajax-Extra-Features
+git clone https://github.com/CyniteOfficial/Auto-Filter-Bot-V3
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -110,6 +108,3 @@ python3 bot.py
 * /channel - to get list of total connected channels
 * /broadcast - to broadcast a message to all Ajax users
 ```
-
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/AboutAadhi) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/aadhi.xr/) | [ɢɪᴛʜᴜʙ](GitHub.com/Aadhi000)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/MWUpdatez)</b>
